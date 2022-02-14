@@ -15,7 +15,9 @@
 Back-end for E-commerce website. The functionality is to get/update/create inventory info.
 
 ## Tests
-![video](./Assests/App-demo.webm)
+
+Here is a clip of the websites backend testing using insomnia!
+https://watch.screencastify.com/v/R7dewMj6Wa69vpsv6Uxl
 
 ## Acceptance Criteria
 
