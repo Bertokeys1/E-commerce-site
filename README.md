@@ -15,10 +15,7 @@
 Back-end for E-commerce website. The functionality is to get/update/create inventory info.
 
 ## Tests
-
-
-
-
+![video](./Assests/App-demo.webm)
 
 ## Acceptance Criteria
 
